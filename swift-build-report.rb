@@ -5,9 +5,9 @@
 class SwiftBuildReport < Formula
   desc "support swift build/test"
   homepage "https://github.com/tokorom/swift-build-report"
-  url "https://github.com/tokorom/swift-build-report/archive/0.1.0.zip"
-  version "0.1.0"
-  sha256 "585f8cb8ff6dd0af7c8cd4e31b4364f5df0b30cc13d6650209a69df60409394d"
+  url "https://github.com/tokorom/swift-build-report/archive/0.2.0.zip"
+  version "0.2.0"
+  sha256 "90d2400c7d940b8875ecd6ca246701dd4ce590236b1fd5e6e78cbac7f1d45cd1"
 
   def install
     bin.install "swift-build-report"
